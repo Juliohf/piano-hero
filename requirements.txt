@@ -1,0 +1,7 @@
+# Dependencia para RODAR e COMPILAR o jogo:
+pygame>=2.5
+
+# Dependencias usadas SOMENTE para regerar os assets (tools/generate_assets.py).
+# Nao sao necessarias para jogar nem para compilar o .exe:
+#   numpy
+#   mido
