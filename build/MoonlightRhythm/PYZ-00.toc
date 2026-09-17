@@ -1,4 +1,4 @@
-('C:\\Users\\julio\\Documents\\UNINTER\\MoonlightRhythm\\moonlight_rhythm\\build\\MoonlightRhythm\\PYZ-00.pyz',
+('C:\\Users\\julio\\Documents\\UNINTER\\Programação\\moonlight_rhythm\\build\\MoonlightRhythm\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\julio\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
    'PYMODULE'),
